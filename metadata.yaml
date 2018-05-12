@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43535'
     url: http://www.gutenberg.org/2009/agents/43535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45943#Uit-Oost-en-Westverklaring-van-eenige-uitheemsche-woorden
 gutenberg_issued: '2014-06-11'
 gutenberg_type: Text
 identifiers:
